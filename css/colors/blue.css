@@ -1,23 +1,23 @@
-/* Blue - #3598db */
+/* Blue - #0199CA */
 
 a:link,a:visited{
-	color:#3598db;
+	color:#0199CA;
 }
 
 ::-moz-selection {
-    background: #3598db;
+    background: #0199CA;
     text-shadow: none;
 }
 
 ::selection {
-    background: #3598db;
+    background: #0199CA;
     text-shadow: none;
 }
 
 
 .navbar-default a.navbar-brand:hover,
 .navbar-default a.navbar-brand:active{
-	color:#3598db;
+	color:#0199CA;
 }
 
 .navbar-default .navbar-nav>li>a{
@@ -28,48 +28,48 @@ a:link,a:visited{
 .navbar-default .navbar-nav>li>a:focus,a:hover,a:active,.navbar-default .navbar-nav>.active>a, 
 .navbar-default .navbar-nav>.active>a:hover, 
 .navbar-default .navbar-nav>.active>a:focus{
-	color:#3598db;
+	color:#0199CA;
 
 }
 
 .nav-effect a:hover::before,
 .nav-effect a:focus::before {
-  color: #3598db;
-  text-shadow: 10px 0 #3598db, -10px 0 #3598db;
+  color: #0199CA;
+  text-shadow: 10px 0 #0199CA, -10px 0 #0199CA;
 }
 
 .spacer,.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus,#grid .mix .overlay,.follow {
-background: #3598db;
+background: #0199CA;
 }
 
 .planContainer .button a.bestPlanButton,
 .planContainer .price p.bestPlanPrice,
 .planContainer .button a.bestPlanButton {
-  background: #3598db;
-  border: 2px solid #3598db;
+  background: #0199CA;
+  border: 2px solid #0199CA;
 }
 
 .planContainer .button a.bestPlanButton:hover {
-  background: #3598db;
-  border: 2px solid #3598db;
+  background: #0199CA;
+  border: 2px solid #0199CA;
 }
 
-.flex-control-paging li a:hover { background: #3598db; }
-.flex-control-paging li a.flex-active { background: #3598db;}
+.flex-control-paging li a:hover { background: #0199CA; }
+.flex-control-paging li a.flex-active { background: #0199CA;}
 
 .home-slides li span{
-	color:#3598db;
+	color:#0199CA;
 }
 
 .nav-pills>li>a:hover,
 .nav-pills>li.active>a{
-	background: #3598db;
-	border: 2px solid #3598db;
+	background: #0199CA;
+	border: 2px solid #0199CA;
 	color:#fff;
 }
 
 #page-contact{
-	background: #3598db;
+	background: #0199CA;
 	color:#fff;
 }
 
@@ -82,21 +82,21 @@ background: #3598db;
 }
 
 .btn.btn-default{
-   background: #3598db;
+   background: #0199CA;
 }
 
 .btn.btn-default:hover,
 .btn.btn-default:active{
-    color:#3598db;
+    color:#0199CA;
 }
 
 
 .hi-icon-effect-1 .hi-icon {
-	background: #3598db;
+	background: #0199CA;
 }
 
 .hi-icon-effect-1 .hi-icon:after {
-	box-shadow: 0 0 0 4px #3598db;
+	box-shadow: 0 0 0 4px #0199CA;
 }
 
 .no-touch .hi-icon-effect-1 .hi-icon:hover {
@@ -106,8 +106,8 @@ background: #3598db;
 
 
 .service-block .service-icon{
-   box-shadow: 0px 0px 0px 3px #3598db;
-    background: #3598db;
+   box-shadow: 0px 0px 0px 3px #0199CA;
+    background: #0199CA;
 }
 
 .service-icon i{
@@ -116,11 +116,11 @@ background: #3598db;
 }
 
 .service-block h3{
-	color:#3598db;
+	color:#0199CA;
 }
 
 .service-block:hover{
-	background: #3598db;
+	background: #0199CA;
 }
 
 .service-block:hover .service-icon{
@@ -128,7 +128,7 @@ background: #3598db;
 }
 
 .service-block:hover .service-icon i{
-	color:#3598db;
+	color:#0199CA;
 }
 
 .service-block:hover  h3,
@@ -142,7 +142,7 @@ background: #3598db;
 }
 
 .highlight{
-	background: #3598db;
+	background: #0199CA;
 	color:#fff;
 }
 
@@ -151,7 +151,7 @@ background: #3598db;
 }
 
 blockquote i{
-	color:#3598db;
+	color:#0199CA;
 }
 
 
