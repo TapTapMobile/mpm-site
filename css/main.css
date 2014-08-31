@@ -50,7 +50,6 @@ h1,h2,h3,h4,h5,h6{
 .navbar-default {
     border: none;
     color:#777;
-    text-transform: uppercase;
     display: inline-block;
     position:fixed;
     background-color:#1f2329;
@@ -848,7 +847,6 @@ a.btn-linkedin:visited{
     font-weight: 700;
     letter-spacing: 5px;
     text-align: center;
-    text-transform: uppercase;
 }
 .intro-text{
   font-size: 3em;
